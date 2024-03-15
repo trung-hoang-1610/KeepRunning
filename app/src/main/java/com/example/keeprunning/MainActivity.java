@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 dialog.dismiss(); // Đóng pop-up
             }
         });
+        //  this is new context ;
 
         // Nút hủy bỏ
         builder.setNegativeButton("Hủy bỏ", new DialogInterface.OnClickListener() {
